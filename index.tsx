@@ -1,5 +1,9 @@
 
+<<<<<<< HEAD
 
+=======
+import '@angular/compiler';
+>>>>>>> e2e38a68bf032da9f60bece63b838655e15aac5f
 import { bootstrapApplication } from '@angular/platform-browser';
 import { AppComponent } from './src/app.component';
 import { provideZonelessChangeDetection } from '@angular/core';
